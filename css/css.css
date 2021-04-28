@@ -8,6 +8,13 @@ section{
     margin: auto;
 }
 
+.titulo{
+    text-align: center;
+    color: gray;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
 .contenedor{
     width: auto;
     height: auto;
@@ -20,6 +27,7 @@ section{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 70px;
 }
 
 .contenedor div{
